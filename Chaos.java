@@ -1,3 +1,6 @@
+// To be able to run this code, you must install StdDraw... follow these instructions:
+// https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html 
+
 import java.awt.Color;
 //import StdDraw;
 
@@ -92,3 +95,4 @@ public class Chaos {
       // return 4 * x * x * x;
    }
 }
+

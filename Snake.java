@@ -1,3 +1,5 @@
+// To be able to run this code, you must install StdDraw... follow these instructions:
+// https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html 
 
 import java.awt.event.KeyEvent;
 import java.util.concurrent.TimeUnit;
@@ -205,3 +207,4 @@ public class Snake {
       StdDraw.textLeft(tempX, tempY, "SCORE: " + score);
    }
 }
+
